@@ -43,8 +43,8 @@ The system is designed with a focus on **financial correctness, data consistency
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/mutual-fund-transaction-system.git
-cd mutual-fund-transaction-system
+git clone https://github.com/rohitpawar2000/mutual-fund-transaction-system-app.git
+cd mutual-fund-transaction-system-app
 ```
 
 ---
